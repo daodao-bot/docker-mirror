@@ -2,3 +2,8 @@ debian:latest
 debian:12.5
 ubuntu:latest
 ubuntu:24.04
+nginx:latest
+nginx:1.27.0
+rust:latest
+rust:1.79.0
+openjdk:21

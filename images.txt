@@ -1,0 +1,4 @@
+debian:latest
+debian:12.5
+ubuntu:latest
+ubuntu:24.04

@@ -6,4 +6,7 @@ nginx:latest
 nginx:1.27.0
 rust:latest
 rust:1.79.0
+rust:1.78.0
 openjdk:21
+openjdk:17
+openjdk:11

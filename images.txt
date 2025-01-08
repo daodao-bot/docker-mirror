@@ -13,5 +13,7 @@
 #otel/opentelemetry-collector:0.116.1
 #grafana/grafana:latest
 #grafana/grafana:11.4.0
-grafana/loki:latest
-grafana/loki:3.1.2
+#grafana/loki:latest
+#grafana/loki:3.1.2
+grafana/promtail:latest
+grafana/promtail:3.1.2

@@ -23,6 +23,8 @@
 #openzipkin/zipkin:3.4.3
 #prom/prometheus:latest
 #prom/prometheus:v3.1.0
-rabbitmq:latest
-rabbitmq:4.0.5
-rabbitmq:4.0.5-management
+#rabbitmq:latest
+#rabbitmq:4.0.5
+#rabbitmq:4.0.5-management
+redis:latest
+redis:7.4.2

@@ -21,5 +21,8 @@
 #jaegertracing/all-in-one:1.64.0
 #openzipkin/zipkin:latest
 #openzipkin/zipkin:3.4.3
-prom/prometheus:latest
-prom/prometheus:v3.1.0
+#prom/prometheus:latest
+#prom/prometheus:v3.1.0
+rabbitmq:latest
+rabbitmq:4.0.5
+rabbitmq:4.0.5-management

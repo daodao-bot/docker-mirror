@@ -11,3 +11,5 @@ openjdk:17
 openjdk:11
 otel/opentelemetry-collector:latest
 otel/opentelemetry-collector:0.116.1
+grafana/grafana:latest
+grafana/grafana:11.4.0

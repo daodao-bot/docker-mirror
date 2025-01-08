@@ -9,6 +9,9 @@ echo "reading images..."
 
 while read -r line
 do
+    if [[ $line == "#"* ]]; then
+        continue
+    fi
     source_image="$line"
     target_image=$(echo $source_image | sed 's/\//./g')
 

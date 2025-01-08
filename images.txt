@@ -26,5 +26,7 @@
 #rabbitmq:latest
 #rabbitmq:4.0.5
 #rabbitmq:4.0.5-management
-redis:latest
-redis:7.4.2
+#redis:latest
+#redis:7.4.2
+mysql:latest
+mysql:9.1.0

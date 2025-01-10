@@ -30,6 +30,7 @@
 #redis:7.4.2
 #mysql:latest
 #mysql:9.1.0
-paketobuildpacks/builder-jammy-tiny:latest
-paketobuildpacks/builder-jammy-base:latest
-paketobuildpacks/builder-jammy-full:latest
+#paketobuildpacks/builder-jammy-tiny:latest
+#paketobuildpacks/builder-jammy-base:latest
+#paketobuildpacks/builder-jammy-full:latest
+paketobuildpacks/builder-jammy-java-tiny:latest

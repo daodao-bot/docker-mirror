@@ -28,5 +28,8 @@
 #rabbitmq:4.0.5-management
 #redis:latest
 #redis:7.4.2
-mysql:latest
-mysql:9.1.0
+#mysql:latest
+#mysql:9.1.0
+paketobuildpacks/builder-jammy-tiny:latest
+paketobuildpacks/builder-jammy-base:latest
+paketobuildpacks/builder-jammy-full:latest

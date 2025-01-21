@@ -33,4 +33,6 @@
 #paketobuildpacks/builder-jammy-tiny:latest
 #paketobuildpacks/builder-jammy-base:latest
 #paketobuildpacks/builder-jammy-full:latest
-paketobuildpacks/builder-jammy-java-tiny:latest
+#paketobuildpacks/builder-jammy-java-tiny:latest
+apache/kafka:latest
+apache/kafka:3.9.0

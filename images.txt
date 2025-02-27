@@ -37,4 +37,9 @@
 #apache/kafka:latest
 #apache/kafka:3.9.0
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-easzlab/kubeasz:3.6.5
+#easzlab/kubeasz:3.6.5
+easzlab/kubeasz-k8s-bin:v1.31.2
+easzlab/json-mock:v1.3.0
+easzlab/alpine-curl:v7.85.0
+easzlab/kube-state-metrics:v2.8.2
+easzlab/kube-webhook-certgen:v1.5.1

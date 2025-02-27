@@ -34,5 +34,6 @@
 #paketobuildpacks/builder-jammy-base:latest
 #paketobuildpacks/builder-jammy-full:latest
 #paketobuildpacks/builder-jammy-java-tiny:latest
-apache/kafka:latest
-apache/kafka:3.9.0
+#apache/kafka:latest
+#apache/kafka:3.9.0
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2

@@ -49,4 +49,6 @@
 #easzlab/metrics-server:v0.7.2
 #easzlab/pause:3.10
 #easzlab/nfs-subdir-external-provisioner:v4.0.2
-easzlab/kubeasz-sys-pkg:1.0.2_debian_11
+#easzlab/kubeasz-sys-pkg:1.0.2_debian_11
+adminer:latest
+adminer:4.17.1

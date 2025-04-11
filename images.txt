@@ -34,8 +34,8 @@
 #paketobuildpacks/builder-jammy-base:latest
 #paketobuildpacks/builder-jammy-full:latest
 #paketobuildpacks/builder-jammy-java-tiny:latest
-#apache/kafka:latest
-#apache/kafka:3.9.0
+apache/kafka:latest
+apache/kafka:4.0.0
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #easzlab/kubeasz:3.6.5
 #easzlab/kubeasz-k8s-bin:v1.31.2
@@ -52,5 +52,5 @@
 #easzlab/kubeasz-sys-pkg:1.0.2_debian_11
 #adminer:latest
 #adminer:4.17.1
-postgres:latest
-postgres:17.4
+#postgres:latest
+#postgres:17.4

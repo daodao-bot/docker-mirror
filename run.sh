@@ -13,7 +13,7 @@ do
         continue
     fi
     source_image="$line"
-    target_image=$(echo $source_image | sed 's/\//_/g')
+    target_image=$(echo $source_image | sed 's/\//./g')
 
     echo "pull image - $source_image"
     docker pull $source_image

@@ -17,8 +17,6 @@
 #grafana/loki:3.4.3
 #grafana/promtail:latest
 #grafana/promtail:3.4.3
-#jaegertracing/all-in-one:latest
-#jaegertracing/all-in-one:1.68.0
 #openzipkin/zipkin:latest
 #openzipkin/zipkin:3.5.0
 #prom/prometheus:latest
@@ -53,5 +51,7 @@
 #adminer:5.1.0
 #postgres:latest
 #postgres:17.4
-grafana/alloy:latest
-grafana/alloy:v1.8.1
+#grafana/alloy:latest
+#grafana/alloy:v1.8.1
+jaegertracing/jaeger:latest
+jaegertracing/jaeger:2.5.0

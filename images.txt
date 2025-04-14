@@ -53,5 +53,7 @@
 #postgres:17.4
 #grafana/alloy:latest
 #grafana/alloy:v1.8.1
-jaegertracing/jaeger:latest
-jaegertracing/jaeger:2.5.0
+#jaegertracing/jaeger:latest
+#jaegertracing/jaeger:2.5.0
+maven:latest
+maven:3.9.9

@@ -55,5 +55,9 @@
 #grafana/alloy:v1.8.1
 #jaegertracing/jaeger:latest
 #jaegertracing/jaeger:2.5.0
-maven:latest
-maven:3.9.9
+#maven:latest
+#maven:3.9.9
+node:latest
+node:lts
+node:23
+node:22

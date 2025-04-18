@@ -2,10 +2,10 @@
 #debian:12.10
 #ubuntu:latest
 #ubuntu:24.04
-alpine:latest
-alpine:3.21.2
-busybox:latest
-busybox:1.37.0
+#alpine:latest
+#alpine:3.21.2
+#busybox:latest
+#busybox:1.37.0
 #nginx:latest
 #nginx:1.27.4
 #rust:latest
@@ -65,5 +65,6 @@ busybox:1.37.0
 #node:lts
 #node:23
 #node:22
-curlimages/curl:latest
-curlimages/curl:8.13.0
+#curlimages/curl:latest
+#curlimages/curl:8.13.0
+elasticsearch:8.18.0

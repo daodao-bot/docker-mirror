@@ -68,3 +68,8 @@
 #curlimages/curl:latest
 #curlimages/curl:8.13.0
 elasticsearch:8.18.0
+apache/doris:fe-3.0.4
+apache/doris:be-3.0.4
+starrocks/allin1-ubuntu:latest
+starrocks/allin1-ubuntu:3.4.2
+

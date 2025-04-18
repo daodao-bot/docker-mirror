@@ -57,7 +57,9 @@
 #jaegertracing/jaeger:2.5.0
 #maven:latest
 #maven:3.9.9
-node:latest
-node:lts
-node:23
-node:22
+#node:latest
+#node:lts
+#node:23
+#node:22
+curlimages/curl:latest
+curlimages/curl:8.13.0

@@ -73,5 +73,8 @@
 #apache/doris:be-3.0.4
 #starrocks/allin1-ubuntu:latest
 #starrocks/allin1-ubuntu:3.4.2
-grafana/tempo:latest
-grafana/tempo:2.7.2
+#grafana/tempo:latest
+#grafana/tempo:2.7.2
+ubuntu/squid:latest
+ubuntu/squid:6.6-24.04_beta
+

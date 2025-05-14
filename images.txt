@@ -77,6 +77,6 @@
 #grafana/tempo:2.7.2
 #ubuntu/squid:latest
 #ubuntu/squid:6.6-24.04_beta
-clickhouse:latest
-clickhouse:25.4.2
-
+#clickhouse:latest
+#clickhouse:25.4.2
+apache/hive:4.0.1

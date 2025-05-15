@@ -28,8 +28,8 @@
 #rabbitmq:latest
 #rabbitmq:4.0.5
 #rabbitmq:4.0.5-management
-#redis:latest
-#redis:7.4.2
+redis:latest
+redis:8.0.1
 #mysql:latest
 #mysql:9.2.0
 #paketobuildpacks/builder-jammy-tiny:latest
@@ -79,4 +79,4 @@
 #ubuntu/squid:6.6-24.04_beta
 #clickhouse:latest
 #clickhouse:25.4.2
-apache/hive:4.0.1
+#apache/hive:4.0.1

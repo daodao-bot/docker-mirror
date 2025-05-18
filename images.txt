@@ -80,6 +80,7 @@ redis:8.0.1
 #clickhouse:latest
 #clickhouse:25.4.2
 #apache/hive:4.0.1
-apache/rocketmq:latest
-apache/rocketmq:5.3.3
-
+#apache/rocketmq:latest
+#apache/rocketmq:5.3.3
+apacherocketmq/rocketmq-dashboard:latest
+apacherocketmq/rocketmq-dashboard:2.0.1

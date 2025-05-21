@@ -82,5 +82,7 @@ redis:8.0.1
 #apache/hive:4.0.1
 #apache/rocketmq:latest
 #apache/rocketmq:5.3.3
-apacherocketmq/rocketmq-dashboard:latest
-apacherocketmq/rocketmq-dashboard:2.0.1
+#apacherocketmq/rocketmq-dashboard:latest
+#apacherocketmq/rocketmq-dashboard:2.0.1
+elastic/filebeat:9.0.1
+elastic/filebeat:8.18.0

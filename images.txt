@@ -86,4 +86,7 @@ redis:8.0.1
 #apacherocketmq/rocketmq-dashboard:2.0.1
 #elastic/filebeat:9.0.1
 #elastic/filebeat:8.18.0
-paketobuildpacks/builder-noble-java-tiny:latest
+#paketobuildpacks/builder-noble-java-tiny:latest
+paketobuildpacks/builder-noble-java-tiny:0.0.34
+paketobuildpacks/ubuntu-noble-run-tiny:latest
+paketobuildpacks/ubuntu-noble-run-tiny:0.0.11

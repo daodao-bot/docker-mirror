@@ -28,8 +28,8 @@
 #rabbitmq:latest
 #rabbitmq:4.0.5
 #rabbitmq:4.0.5-management
-redis:latest
-redis:8.0.1
+#redis:latest
+#redis:8.0.1
 #mysql:latest
 #mysql:9.2.0
 #paketobuildpacks/builder-jammy-tiny:latest
@@ -87,6 +87,10 @@ redis:8.0.1
 #elastic/filebeat:9.0.1
 #elastic/filebeat:8.18.0
 #paketobuildpacks/builder-noble-java-tiny:latest
-paketobuildpacks/builder-noble-java-tiny:0.0.34
-paketobuildpacks/ubuntu-noble-run-tiny:latest
-paketobuildpacks/ubuntu-noble-run-tiny:0.0.11
+#paketobuildpacks/builder-noble-java-tiny:0.0.34
+#paketobuildpacks/ubuntu-noble-run-tiny:latest
+#paketobuildpacks/ubuntu-noble-run-tiny:0.0.11
+mongo:latest
+mongo:8.0.10
+mongo-express:latest
+mongo-express:1.0.2

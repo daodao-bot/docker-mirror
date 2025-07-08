@@ -32,6 +32,7 @@
 #redis:8.0.1
 #mysql:latest
 #mysql:9.2.0
+mysql:8.0.27
 #paketobuildpacks/builder-jammy-tiny:latest
 #paketobuildpacks/builder-jammy-base:latest
 #paketobuildpacks/builder-jammy-full:latest
@@ -90,7 +91,7 @@
 #paketobuildpacks/builder-noble-java-tiny:0.0.34
 #paketobuildpacks/ubuntu-noble-run-tiny:latest
 #paketobuildpacks/ubuntu-noble-run-tiny:0.0.11
-mongo:latest
-mongo:8.0.10
-mongo-express:latest
-mongo-express:1.0.2
+#mongo:latest
+#mongo:8.0.10
+#mongo-express:latest
+#mongo-express:1.0.2

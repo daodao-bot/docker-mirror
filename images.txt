@@ -13,10 +13,10 @@
 #openjdk:21
 #openjdk:17
 #openjdk:11
-otel/opentelemetry-collector:latest
-otel/opentelemetry-collector:0.131.1
-#grafana/grafana:latest
-#grafana/grafana:11.6.0
+#otel/opentelemetry-collector:latest
+#otel/opentelemetry-collector:0.131.1
+grafana/grafana:latest
+grafana/grafana:12.1.0
 #grafana/loki:latest
 #grafana/loki:3.4.3
 #grafana/promtail:latest

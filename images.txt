@@ -13,8 +13,8 @@
 #openjdk:21
 #openjdk:17
 #openjdk:11
-#otel/opentelemetry-collector:latest
-#otel/opentelemetry-collector:0.123.0
+otel/opentelemetry-collector:latest
+otel/opentelemetry-collector:0.131.1
 #grafana/grafana:latest
 #grafana/grafana:11.6.0
 #grafana/loki:latest
@@ -95,5 +95,5 @@
 #mongo:8.0.10
 #mongo-express:latest
 #mongo-express:1.0.2
-emqx/emqx:latest
-emqx/emqx:5.10.0
+#emqx/emqx:latest
+#emqx/emqx:5.10.0

@@ -1,4 +1,4 @@
-docker:latest
+#docker:latest
 #debian:latest
 #debian:13.0
 #ubuntu:latest
@@ -102,3 +102,5 @@ docker:latest
 #mongo-express:1.0.2
 #emqx/emqx:latest
 #emqx/emqx:5.10.0
+emqx/mqttx-web:latest
+emqx/mqttx-web:v1.12.0

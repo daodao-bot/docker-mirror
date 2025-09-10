@@ -102,5 +102,7 @@
 #mongo-express:1.0.2
 #emqx/emqx:latest
 #emqx/emqx:5.10.0
-emqx/mqttx-web:latest
-emqx/mqttx-web:v1.12.0
+#emqx/mqttx-web:latest
+#emqx/mqttx-web:v1.12.0
+easysoft/zentao:latest
+easysoft/zentao:21.7.5

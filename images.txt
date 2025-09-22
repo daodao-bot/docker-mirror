@@ -15,7 +15,7 @@
 #nginx:1.29.0
 #rust:latest
 #rust:1.86.0
-openjdk:25
+#openjdk:25
 #openjdk:21
 #openjdk:17
 #openjdk:11
@@ -66,8 +66,8 @@ openjdk:25
 #grafana/alloy:v1.10.1
 #jaegertracing/jaeger:latest
 #jaegertracing/jaeger:2.5.0
-#maven:latest
-#maven:3.9.9
+maven:latest
+maven:3.9.11
 #node:latest
 #node:24
 #node:23

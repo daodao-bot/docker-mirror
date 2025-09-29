@@ -1,6 +1,6 @@
 #docker:latest
-#debian:latest
-#debian:13.0
+debian:latest
+debian:13.1
 #ubuntu:latest
 #ubuntu:24.04
 #alpine:latest
@@ -67,8 +67,8 @@
 #jaegertracing/jaeger:latest
 #jaegertracing/jaeger:2.5.0
 #maven:latest
-maven:3
-maven:3.9
+#maven:3
+#maven:3.9
 #maven:3.9.11
 #node:latest
 #node:24

@@ -1,6 +1,6 @@
 #docker:latest
-debian:latest
-debian:13.1
+#debian:latest
+#debian:13.1
 #ubuntu:latest
 #ubuntu:24.04
 #alpine:latest
@@ -103,8 +103,8 @@ debian:13.1
 #mongo:8.0.10
 #mongo-express:latest
 #mongo-express:1.0.2
-#emqx/emqx:latest
-#emqx/emqx:5.10.0
+emqx/emqx:latest
+emqx/emqx:6.0.0
 #emqx/mqttx-web:latest
 #emqx/mqttx-web:v1.12.0
 #easysoft/zentao:latest

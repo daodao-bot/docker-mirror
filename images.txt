@@ -120,3 +120,4 @@ nacos/nacos-server:latest
 nacos/nacos-server:v3.1.1
 nacos/nacos-server:v2.2.3
 tomcat:8.5.100
+gvenzl/oracle-xe

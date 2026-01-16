@@ -119,6 +119,9 @@
 #nacos/nacos-server:latest
 #nacos/nacos-server:v3.1.1
 #nacos/nacos-server:v2.2.3
+tomcat:latest
+tomcat:11
 #tomcat:8.5.100
-gvenzl/oracle-xe:latest
-gvenzl/oracle-xe:11
+tomcat:8.5.100-jdk8
+#gvenzl/oracle-xe:latest
+#gvenzl/oracle-xe:11

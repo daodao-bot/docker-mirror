@@ -80,10 +80,11 @@
 #node:24
 #node:23
 #node:22
-node:20
-node:18
-node:16
-node:14
+#node:20
+#node:18
+#node:16
+#node:14
+node:12
 #curlimages/curl:latest
 #curlimages/curl:8.13.0
 #elasticsearch:8.18.0

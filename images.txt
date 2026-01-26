@@ -15,7 +15,7 @@
 #nginx:1.29.0
 #rust:latest
 #rust:1.86.0
-openjdk:25
+#openjdk:25
 #openjdk:21
 #openjdk:17
 #openjdk:11
@@ -74,12 +74,16 @@ openjdk:25
 #maven:3
 #maven:3.9
 #maven:3.9.11
-maven:3.9.12
-maven:4.0.0-rc-5
+#maven:3.9.12
+#maven:4.0.0-rc-5
 #node:latest
 #node:24
 #node:23
 #node:22
+node:20
+node:18
+node:16
+node:14
 #curlimages/curl:latest
 #curlimages/curl:8.13.0
 #elasticsearch:8.18.0

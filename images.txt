@@ -84,7 +84,7 @@
 #node:18
 #node:16
 #node:14
-node:12
+#node:12
 #curlimages/curl:latest
 #curlimages/curl:8.13.0
 #elasticsearch:8.18.0
@@ -132,3 +132,5 @@ node:12
 #tomcat:8.5.100-jdk8
 #gvenzl/oracle-xe:latest
 #gvenzl/oracle-xe:11
+grafana/otel-lgtm:latest
+grafana/otel-lgtm:0.16.0

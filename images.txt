@@ -132,5 +132,7 @@
 #tomcat:8.5.100-jdk8
 #gvenzl/oracle-xe:latest
 #gvenzl/oracle-xe:11
-grafana/otel-lgtm:latest
-grafana/otel-lgtm:0.16.0
+#grafana/otel-lgtm:latest
+#grafana/otel-lgtm:0.16.0
+sonatype/nexus3:latest
+sonatype/nexus3:3.89.0

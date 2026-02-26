@@ -99,7 +99,7 @@
 #ubuntu/squid:6.6-24.04_beta
 #clickhouse:latest
 #clickhouse:25.4.2
-#apache/hive:4.0.1
+apache/hive:4.2.0
 #apache/rocketmq:latest
 #apache/rocketmq:5.3.3
 #apacherocketmq/rocketmq-dashboard:latest
@@ -134,5 +134,5 @@
 #gvenzl/oracle-xe:11
 #grafana/otel-lgtm:latest
 #grafana/otel-lgtm:0.16.0
-sonatype/nexus3:latest
-sonatype/nexus3:3.89.0
+#sonatype/nexus3:latest
+#sonatype/nexus3:3.89.0

@@ -99,7 +99,7 @@
 #ubuntu/squid:6.6-24.04_beta
 #clickhouse:latest
 #clickhouse:25.4.2
-apache/hive:4.2.0
+#apache/hive:4.2.0
 #apache/rocketmq:latest
 #apache/rocketmq:5.3.3
 #apacherocketmq/rocketmq-dashboard:latest
@@ -136,3 +136,4 @@ apache/hive:4.2.0
 #grafana/otel-lgtm:0.16.0
 #sonatype/nexus3:latest
 #sonatype/nexus3:3.89.0
+apache/hadoop:3.4.2

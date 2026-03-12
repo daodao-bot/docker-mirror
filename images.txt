@@ -85,6 +85,7 @@
 #node:16
 #node:14
 #node:12
+node:14.16.0
 #curlimages/curl:latest
 #curlimages/curl:8.13.0
 #elasticsearch:8.18.0
@@ -136,4 +137,4 @@
 #grafana/otel-lgtm:0.16.0
 #sonatype/nexus3:latest
 #sonatype/nexus3:3.89.0
-apache/hadoop:3.4.2
+#apache/hadoop:3.4.2

@@ -12,7 +12,7 @@
 #busybox:latest
 #busybox:1.37.0
 nginx:latest
-nginx:1.30.1
+nginx:1.31.0
 #rust:latest
 #rust:1.86.0
 #openjdk:25

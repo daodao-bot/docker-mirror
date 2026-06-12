@@ -20,8 +20,9 @@
 #openjdk:17
 #openjdk:11
 #openjdk:8u342
-python:latest
-python:3.14.6
+openjdk:25-ea-bookworm
+#python:latest
+#python:3.14.6
 #otel/opentelemetry-collector:latest
 #otel/opentelemetry-collector:0.131.1
 #grafana/grafana:latest

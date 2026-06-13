@@ -15,14 +15,17 @@ do
     source_image="$line"
     target_image=$(echo $source_image | sed 's/\//./g')
 
-    echo "pull image - $source_image"
-    docker pull $source_image
+#    echo "pull image - $source_image"
+#    docker pull $source_image
+#
+#    echo "tag image - $source_image > $target_image"
+#    docker tag $source_image $DOCKER_REGISTRY_URL/$DOCKER_REGISTRY_NAMESPACE/$target_image
+#
+#    echo "push image - $target_image"
+#    docker push $DOCKER_REGISTRY_URL/$DOCKER_REGISTRY_NAMESPACE/$target_image
 
-    echo "tag image - $source_image > $target_image"
-    docker tag $source_image $DOCKER_REGISTRY_URL/$DOCKER_REGISTRY_NAMESPACE/$target_image
-
-    echo "push image - $target_image"
-    docker push $DOCKER_REGISTRY_URL/$DOCKER_REGISTRY_NAMESPACE/$target_image
+     echo "docker buildx"
+     docker buildx imagetools create --tag $DOCKER_REGISTRY_URL/$DOCKER_REGISTRY_NAMESPACE/$target_image $source_image
 
 done < "$filename"
 

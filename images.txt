@@ -85,9 +85,9 @@
 #maven:3.9.11
 #maven:3.9.12
 #maven:4.0.0-rc-5
-node:latest
-node:24
-node:22
+#node:latest
+#node:24
+#node:22
 #node:20
 #node:18
 #node:16
@@ -145,3 +145,4 @@ node:22
 #sonatype/nexus3:latest
 #sonatype/nexus3:3.89.0
 #apache/hadoop:3.4.2
+moby/buildkit:buildx-stable-1

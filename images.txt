@@ -11,8 +11,8 @@
 #alpine/curl:8.14.1
 #busybox:latest
 #busybox:1.37.0
-#nginx:latest
-#nginx:1.31.0
+nginx:latest
+nginx:1.31.1
 #rust:latest
 #rust:1.86.0
 #openjdk:25
@@ -21,8 +21,8 @@
 #openjdk:11
 #openjdk:8u342
 #openjdk:25-ea-bookworm
-eclipse-temurin
-eclipse-temurin:25
+#eclipse-temurin
+#eclipse-temurin:25
 #python:latest
 #python:3.14.6
 #otel/opentelemetry-collector:latest

@@ -152,7 +152,9 @@
 #tdengine/tsdb:3.4.1.13
 #tdengine/tsdb-ee:latest
 #tdengine/tsdb-ee:3.4.1.16
-influxdb:core
-influxdb:3-core
-influxdb:3.11-core
-influxdb:3.11.2-core
+#influxdb:core
+#influxdb:3-core
+#influxdb:3.11-core
+#influxdb:3.11.2-core
+influxdata/influxdb3-ui:latest
+influxdata/influxdb3-ui:1.9.0

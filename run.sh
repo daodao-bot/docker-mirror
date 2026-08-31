@@ -25,7 +25,7 @@ do
 #    docker push $DOCKER_REGISTRY_URL/$DOCKER_REGISTRY_NAMESPACE/$target_image
 
      echo "docker buildx"
-     docker buildx imagetools create --tag $DOCKER_REGISTRY_URL/$DOCKER_REGISTRY_NAMESPACE/$target_image $source_image --provenance=false
+     docker buildx imagetools create --tag $DOCKER_REGISTRY_URL/$DOCKER_REGISTRY_NAMESPACE/$target_image $source_image --ignore-provenance
 
 done < "$filename"
 

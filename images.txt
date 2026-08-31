@@ -142,8 +142,8 @@
 #tomcat:8.5.100-jdk8
 #gvenzl/oracle-xe:latest
 #gvenzl/oracle-xe:11
-#grafana/otel-lgtm:latest
-#grafana/otel-lgtm:0.28.0
+grafana/otel-lgtm:latest
+grafana/otel-lgtm:0.32.0
 #sonatype/nexus3:latest
 #sonatype/nexus3:3.89.0
 #apache/hadoop:3.4.2
@@ -156,5 +156,5 @@
 #influxdb:3-core
 #influxdb:3.11-core
 #influxdb:3.11.2-core
-influxdata/influxdb3-ui:latest
-influxdata/influxdb3-ui:1.9.0
+#influxdata/influxdb3-ui:latest
+#influxdata/influxdb3-ui:1.9.0

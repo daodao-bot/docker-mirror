@@ -22,7 +22,7 @@
 #openjdk:8u342
 #openjdk:25-ea-bookworm
 #eclipse-temurin:latest
-#eclipse-temurin:25
+eclipse-temurin:25
 #python:latest
 #python:3.14.6
 #otel/opentelemetry-collector:latest
@@ -127,6 +127,7 @@
 #mongo:4.4.30
 #emqx/emqx:latest
 #emqx/emqx:6.0.1
+#emqx/emqx:6.3.0
 #emqx/mqttx-web:latest
 #emqx/mqttx-web:v1.12.0
 #easysoft/zentao:latest
@@ -158,6 +159,6 @@
 #influxdb:3.11.2-core
 #influxdata/influxdb3-ui:latest
 #influxdata/influxdb3-ui:1.9.0
-emqx/emqtt-bench:latest
-emqx/emqtt-bench:0.6
+#emqx/emqtt-bench:latest
+#emqx/emqtt-bench:0.6
 
